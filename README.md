@@ -39,15 +39,17 @@ Fetches and displays a list of users from an API.
 Each task page showcases different API interactions:
 
 - **Task 1:** Fetches a list of users and displays their details.
-  ![image](https://github.com/user-attachments/assets/6dd501dc-0da3-4033-b6b9-cee511adce9e)
+  ![image](https://github.com/user-attachments/assets/3959bcee-2717-4753-a839-c8cf7605de1b)
   
 - **Task 2:** Fetches user details such as name, email, and address.
-  ![image](https://github.com/user-attachments/assets/c4c222fd-b109-4e3f-b8ed-b1449e9100b3)
+  ![image](https://github.com/user-attachments/assets/6dd501dc-0da3-4033-b6b9-cee511adce9e)
   
 - **Task 3:** Fetches a to-do list with completion status.
-  ![image](https://github.com/user-attachments/assets/6facca81-965b-4883-8675-17b20c8ce707)
+  ![image](https://github.com/user-attachments/assets/c4c222fd-b109-4e3f-b8ed-b1449e9100b3)
   
 - **Task 4:** Implements a dropdown to select a user and display their details in a table.
+  ![image](https://github.com/user-attachments/assets/6facca81-965b-4883-8675-17b20c8ce707)
+
   ![image](https://github.com/user-attachments/assets/72eee512-2540-49b8-93be-8c4ea87ff1f4)
 
 ## How to Set Up the Project
