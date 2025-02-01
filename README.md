@@ -213,7 +213,5 @@ This project provides a basic demonstration of API fetching and rendering in Rea
 
 Feel free to contribute and improve the project!
 
-give me in professional way and include the images which i have given
-
 
 
